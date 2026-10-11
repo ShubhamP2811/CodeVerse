@@ -445,10 +445,6 @@
     position: relative;
 }
 
-.project-img-container.spotify-bg {
-    background: linear-gradient(135deg, #1db954, #191414);
-}
-
 .project-placeholder-icon {
     font-size: 5rem;
     opacity: 0.8;
@@ -479,12 +475,6 @@
     border-radius: 30px;
     font-size: 0.82rem;
     font-weight: 600;
-}
-
-.spotify-badge {
-    background: #e8f9ed;
-    color: #1db954;
-    border: 1px solid #c9ebd4;
 }
 
 .project-bullets {
